@@ -1,5 +1,22 @@
 from math import sqrt
 
+##################################################   Q    U    I    Z   Z       W   I   N   E   R   S  ############################
+### QUIZZ WINERS:
+##  1ST PLACE: Teodora
+##  2nd PLACE: Bogdan
+##  3rd PLACE: Miha
+
+def congrats(first, second, third, rest):
+    print(f"{first} Congratulation, you are the first!")
+    print(f"{second} Congratulation, you are the second!")
+    print(f"{third} Congratulation, you are the third!")
+    print(f"{rest} Keep trying to reach the top! You can do it! Practice, practice, practice!")
+
+congrats("Teodora", "Bogdan", "Miha", "Everyone")
+
+
+###############################################
+
 # Access the 1st element from the element list with booleans
 
 n = [1, 2, 3, ["ana", "mere", [True, False]]]
